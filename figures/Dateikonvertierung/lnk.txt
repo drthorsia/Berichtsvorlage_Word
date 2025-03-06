@@ -1,0 +1,1 @@
+INCLUDEPICTURE "figures/Dateikonvertierung/dateikonvertierung.png" \d \* MERGEFORMAT
