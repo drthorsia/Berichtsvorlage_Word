@@ -1,1 +1,4 @@
-"# Berichtsvorlage_Word" 
+# Berichtsvorlage_Word
+
+Vorschau:
+![preview.png](preview.png)
